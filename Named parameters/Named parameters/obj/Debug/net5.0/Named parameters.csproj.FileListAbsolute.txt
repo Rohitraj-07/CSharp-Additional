@@ -1,0 +1,16 @@
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.exe
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.deps.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.runtimeconfig.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.runtimeconfig.dev.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\ref\Named parameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\bin\Debug\net5.0\Named parameters.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.csproj.AssemblyReference.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.AssemblyInfoInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.AssemblyInfo.cs
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.csproj.CoreCompileInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\ref\Named parameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\Named parameters\Named parameters\obj\Debug\net5.0\Named parameters.genruntimeconfig.cache

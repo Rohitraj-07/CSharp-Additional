@@ -1,0 +1,10 @@
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\bin\Debug\WindowsFormsApp_FileUpload.exe.config
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\bin\Debug\WindowsFormsApp_FileUpload.exe
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\bin\Debug\WindowsFormsApp_FileUpload.pdb
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.csproj.AssemblyReference.cache
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.Form1.resources
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.Properties.Resources.resources
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.csproj.GenerateResource.cache
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.csproj.CoreCompileInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.exe
+D:\Cognizant DotNet_FSE\HandsOn\Stage 3 - HandsOn\C# Additional Topics-HandsOn\WindowsFormsApp_FileUpload\WindowsFormsApp_FileUpload\obj\Debug\WindowsFormsApp_FileUpload.pdb

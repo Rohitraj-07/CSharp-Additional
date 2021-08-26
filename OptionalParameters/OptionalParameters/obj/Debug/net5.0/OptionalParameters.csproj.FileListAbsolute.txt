@@ -1,0 +1,16 @@
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.exe
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.deps.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.dev.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\ref\OptionalParameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.AssemblyReference.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfoInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfo.cs
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.CoreCompileInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\ref\OptionalParameters.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.genruntimeconfig.cache

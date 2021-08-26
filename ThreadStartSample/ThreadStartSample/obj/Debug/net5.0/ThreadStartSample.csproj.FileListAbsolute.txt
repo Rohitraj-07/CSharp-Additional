@@ -1,0 +1,16 @@
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.exe
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.deps.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.runtimeconfig.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.runtimeconfig.dev.json
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ref\ThreadStartSample.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.csproj.AssemblyReference.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.AssemblyInfoInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.AssemblyInfo.cs
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.csproj.CoreCompileInputs.cache
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ref\ThreadStartSample.dll
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.pdb
+D:\Cognizant DotNet_FSE\HandsOn\ADM DotNet FSE - Basics and Advanced\Stage 3 - HandsOn\C# Additional Topics-HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.genruntimeconfig.cache
